@@ -80,17 +80,6 @@ https://serper.dev
 
 ---
 
-## 🔐 Environment Variables
-
-Update `.env` file in the project root.
-
-```env
-GROQ_API_KEY=your_groq_api_key
-SERPER_API_KEY=your_serper_api_key
-```
-
----
-
 ## 📦 Installation
 
 ### Clone Repository
@@ -139,6 +128,17 @@ pip install langchain-groq
 pip install langchain-community
 pip install google-search-results
 pip install python-dotenv
+```
+
+---
+
+## 🔐 Environment Variables
+
+Update `.env` file in the project root.
+
+```env
+GROQ_API_KEY=your_groq_api_key
+SERPER_API_KEY=your_serper_api_key
 ```
 
 ---
