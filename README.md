@@ -82,7 +82,7 @@ https://serper.dev
 
 ## 🔐 Environment Variables
 
-Create a `.env` file in the project root.
+Update `.env` file in the project root.
 
 ```env
 GROQ_API_KEY=your_groq_api_key
