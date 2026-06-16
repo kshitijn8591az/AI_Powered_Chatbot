@@ -96,9 +96,9 @@ SERPER_API_KEY=your_serper_api_key
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ai-buddy.git
+git clone https://github.com/kshitijn8591az/AI_Powered_Chatbot.git
 
-cd ai-buddy
+cd AI_Powered_Chatbot
 ```
 
 ### Create Virtual Environment
